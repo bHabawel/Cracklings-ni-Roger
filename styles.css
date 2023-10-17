@@ -1,3 +1,14 @@
+#upper-section{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1.5rem;
+}
+
+.position{
+    font-weight: 100;
+    font-size: large;
+}
+
 #left-section{
     border: 2px black solid;
     width: 28rem;
