@@ -1,0 +1,9 @@
+#left-section{
+    border: 2px black solid;
+    width: 28rem;
+    margin-left: 3rem;
+}
+
+#left-section div{
+    margin-left: 1rem;
+}
