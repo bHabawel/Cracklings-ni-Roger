@@ -2,19 +2,29 @@
     display: flex;
     justify-content: space-around;
     margin-bottom: 1.5rem;
+    width: 100vw;
 }
 
 .position{
     font-weight: 100;
     font-size: large;
 }
+#main-section{
+    display: flex;
+}
 
 #left-section{
     border: 2px black solid;
-    width: 28rem;
+    width: 50%;
     margin-left: 3rem;
 }
 
 #left-section div{
     margin-left: 1rem;
+}
+#right-section{
+    width: 50%;
+}
+*{
+    border: solid black;
 }
